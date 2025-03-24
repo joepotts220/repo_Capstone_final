@@ -1,0 +1,6 @@
+venv
+.DS_Store
+venv/
+*/venv/
+.venv/
+repo_Capstone_final
